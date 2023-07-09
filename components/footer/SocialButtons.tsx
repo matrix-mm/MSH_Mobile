@@ -9,7 +9,7 @@ export default function SocialButtons() {
 			<h3 className='page-footer__header'>Follow us</h3>
 			<div className='page-footer__social-buttons'>
 				<div className='page-footer__social-button'>
-					<a className='page-footer__social-link' target='_blank' href='https://fb.com'>
+					<a className='page-footer__social-link' target='_blank' href='https://www.facebook.com/profile.php?id=100091904209916'>
 						<FontAwesomeIcon className='social-icon' icon={faFacebook}/>
 					</a>
 				</div>
@@ -25,7 +25,7 @@ export default function SocialButtons() {
 				</div>
 			</div>
 			<p className='page-footer__social-buttons company-info'>
-				All rights reserved. © Boundless-Commerce
+				All rights reserved. © MSH - Mobile
 			</p>
 		</>
 	);

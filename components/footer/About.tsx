@@ -1,17 +1,17 @@
-// import Link from 'next/link';
-// import logoImg from '../../assets/logo.svg';
+import Link from 'next/link';
+import logoImg from '../../assets/logo.svg';
 
 export default function FooterAbout({companyTitle}: {companyTitle?: string}) {
-	const title = companyTitle || '© Your Company LLC.';
+	const title = companyTitle || '© MSH Mobile';
 	return (
 		<>
-			{/* <div className='page-footer__logo'>
+			{ <div className='page-footer__logo'>
 				<Link href='/'>
 					<a>
-						<img src={logoImg.src} width={logoImg.width} height={logoImg.height} alt={title} />
+					{<img src={"/logo.png"} alt={'MSH Mobile Shop'} width={logoImg.width} height={logoImg.height} />}
 					</a>
 				</Link>
-			</div> */}
+			</div> }
 			<div className='page-footer__company-info'>
 				<p className='title'>{title}</p>
 			</div>

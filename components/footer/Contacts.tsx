@@ -11,13 +11,13 @@ export default function FooterContacts() {
 				<span className='icon'>
 					<FontAwesomeIcon icon={faWhatsapp}/>
 				</span>
-				<a className='link' href='tel:+18001234567'>+1 (800) 123-45-67</a>
+				<a className='link' href='tel:+9595343769'>09 5343769</a>
 			</p>
 			<p className='page-footer__icon-w-link'>
 				<span className='icon'>
 					<FontAwesomeIcon icon={faMapMarkerAlt}/>
 				</span>
-				<a className='link' href='#'>1 infinite loop, Cupertino, CA 95014</a>
+				<a className='link' href='https://goo.gl/maps/w74xQWv5ieADyDRv8'>အထက (၁)လမ်း၊ ရန်ကင်းဈေးအနီး၊ ရန်အောင်ရပ်၊မကွေးမြို့။</a>
 			</p>
 			<p className='page-footer__icon-w-link'>
 				<span className='icon'>
