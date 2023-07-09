@@ -24,7 +24,7 @@
 	],
 	"rules": {
 		"semi": ["error", "always"],
-		"quotes": ["error", "single"],
+		"quotes": ["1", "single"],
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
 		"object-curly-spacing": ["error", "never"],
 		"array-bracket-spacing": ["error", "never"],
