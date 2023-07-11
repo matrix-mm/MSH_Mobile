@@ -16,8 +16,9 @@ export default function FooterAbout({companyTitle}: {companyTitle?: string}) {
 				<p className='title'>{title}</p>
 			</div>
 			<div className='page-footer__disclaimer'>
-					This website and its contents are provided "as is" and "as available" without any warranty or representations of any kind, whether express or implied.
-					Price and availability information is subject to change without notice.
+					အခါကြီးရက်ကြီးများမှ အပ ပိတ်ရက်မရှိ နေ့စဉ် ဆိုင်ဖွင့်ထားပါသည်။
+			မြန်မာပြည်အနှံ့ အိမ်အရောက်ပို့စနစ်အပြင် ကားဂိတ်အရောက်ပို့စနစ်လည်းရှိပါတယ်ဗျ။
+			🙏🙏ချမ်းသာကိုယ်စိတ်ရှိကြပါစေလုပ်သမျှကိုင်သမျှ ဆန္ဒ ပြည့်ကြပါစေ..ဆုတောင်းပေးလိုက်ပါတယ်🙏🙏
 			</div>
 		</>
 	);
