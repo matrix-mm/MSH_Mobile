@@ -24,7 +24,7 @@ export default function MarsLogoRow() {
 					<Link href={'/'}>
 						<a className={'mars-logo-row__logo'}>
 						{<img src={"/logo.png"} alt={'MSH Mobile Shop'} /> }
-						<span>MSH Mobile BRAND NEW & GOOD SECOND SHOP</span>
+						<span>MSH Mobile SHOP</span>
 						</a>
 					</Link>
 				</div>
