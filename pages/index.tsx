@@ -41,18 +41,18 @@ export default function IndexPage({products, mainMenu, footerMenu, basicSettings
 				columns={[
 					{
 						icon:  <FontAwesomeIcon icon={faBug} className={'text-with-icons__icon'} />,
-						title: 'Does not slip in the hands',
-						comment: 'Anti-slip coating - for reliability.'
+						title: 'အာမခံကာလ ကတော့(၁၀)ရက် ရရှိမှာဖြစ်ပီး',
+						comment: 'ဆိုင်မှဝယ်ယူသွားသော Second ဖုန်းများအား(၁)ပါတ်အတွင်း ပြန်လည်လဲလှယ်လိုပါက ၁၀%Offနှင့်လဲလှယ်ပေးပီး.'
 					},
 					{
 						icon:  <FontAwesomeIcon icon={faShieldAlt} className={'text-with-icons__icon'} />,
-						title: 'Extra phone protection',
-						comment: 'Anti-slip coating - for reliability.'
+						title: '(အသစ်ဖုန်းများမပါဝင်ပါ)..',
+						comment: 'ပြန်လည်ရောင်းချလိုပါက၁၅% Offပြီးပြန်လည်ဝယ်ယူပေးပါသည်။'
 					},
 					{
 						icon:  <FontAwesomeIcon icon={faSmile} className={'text-with-icons__icon'} />,
-						title: 'Looks nice',
-						comment: 'With our cases your phone look even better than without.'
+						title: '(မည်သည့် Secondဖုန်းဝယ်သူမဆို မှန်မကွဲလက်ဆောင် /တဘက်လက်ဆောင် ရရှိမှာဖြစ်ပါတယ်..)',
+						comment: '*ရောင်းဝယ်/အလဲ/အထပ် အဆင်ပြေအောင်လုပ်ပေးနေပါသည်။*'
 					},
 				]}
 				fullWidth={true}
