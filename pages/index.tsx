@@ -122,7 +122,7 @@ function 	MainPageSlider() {
 		{
 			'img': mobileSlider1Img.src,
 			'link': '',
-			'caption': '"The perfect companion for your digital lifestyle" as calls it "the mobile phone"',
+			'caption': 'သင်၏ဒစ်ဂျစ်တယ်လူနေမှုပုံစံအတွက် ပြီးပြည့်စုံသောအဖော်',
 			'captionPosition': 'bottom',
 			'useFilling': true,
 			'fillingColor': '#000000',
