@@ -41,8 +41,8 @@ export default function IndexPage({products, mainMenu, footerMenu, basicSettings
 				columns={[
 					{
 						icon:  <FontAwesomeIcon icon={faBug} className={'text-with-icons__icon'} />,
-						title: '(အသစ်ဖုန်းများမပါဝင်ပါ)..',
-						comment: 'ပြန်လည်ရောင်းချလိုပါက၁၅% Offပြီးပြန်လည်ဝယ်ယူပေးပါသည်။'
+						title: 'ပြန်လည်ရောင်းချလိုပါက၁၅% Offပြီးပြန်လည်ဝယ်ယူပေးပါသည်။',
+						comment: '(အသစ်ဖုန်းများမပါဝင်ပါ)..'
 					},
 					{
 						icon:  <FontAwesomeIcon icon={faShieldAlt} className={'text-with-icons__icon'} />,
@@ -122,7 +122,7 @@ function 	MainPageSlider() {
 		{
 			'img': mobileSlider1Img.src,
 			'link': '',
-			'caption': 'သင့်ရဲ ဒီဂျီတယ်လူနေမှုဘဝပုံစံအတွက် ပြီးပြည့်စုံသော အဖော်မွန်” ဆိုသည့်အတိုင်းမိုဘိုင်းဖုန်း၊!',
+			'caption': '"The perfect companion for your digital lifestyle" as calls it "the mobile phone"',
 			'captionPosition': 'bottom',
 			'useFilling': true,
 			'fillingColor': '#000000',
@@ -131,7 +131,7 @@ function 	MainPageSlider() {
 		{
 			'img': mobileSlider2Img.src,
 			'link': '',
-			'caption': 'ခေတ်မှီ ဒီဂျီတယ်လူသုံးကုန်ပစ္စည်းအမျိုးမျိုးတို့ကို တစ်နေရာထဲတွင် အစုံလင်ဆုံး ဝယ်ယူရရှိနိုင်အောင် ရောင်းချပေးနေပါသည်။',
+			'caption': 'အခါကြီးရက်ကြီးများမှ အပ ပိတ်ရက်မရှိ နေ့စဉ် ဆိုင်ဖွင့်ထားပါသည်။',
 			'captionPosition': 'bottom',
 			'useFilling': true,
 			'fillingColor': '#000000',
