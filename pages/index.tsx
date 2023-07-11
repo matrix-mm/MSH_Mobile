@@ -122,7 +122,7 @@ function 	MainPageSlider() {
 		{
 			'img': mobileSlider1Img.src,
 			'link': '',
-			'caption': 'Decorate your phone with our cases!',
+			'caption': 'သင့်ရဲ ဒီဂျီတယ်လူနေမှုဘဝပုံစံအတွက် ပြီးပြည့်စုံသော အဖော်မွန်” ဆိုသည့်အတိုင်းမိုဘိုင်းဖုန်း၊!',
 			'captionPosition': 'bottom',
 			'useFilling': true,
 			'fillingColor': '#000000',
@@ -131,7 +131,7 @@ function 	MainPageSlider() {
 		{
 			'img': mobileSlider2Img.src,
 			'link': '',
-			'caption': 'Pray not for easy lives, pray to be stronger men.',
+			'caption': 'ခေတ်မှီ ဒီဂျီတယ်လူသုံးကုန်ပစ္စည်းအမျိုးမျိုးတို့ကို တစ်နေရာထဲတွင် အစုံလင်ဆုံး ဝယ်ယူရရှိနိုင်အောင် ရောင်းချပေးနေပါသည်။',
 			'captionPosition': 'bottom',
 			'useFilling': true,
 			'fillingColor': '#000000',
